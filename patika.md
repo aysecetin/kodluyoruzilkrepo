@@ -1,5 +1,6 @@
 
-![github](figures/github.png)
+![Kodluyoruz Resmi](~/Desktop/kodluyoruz.png)
+
 
 ## Installation
 
