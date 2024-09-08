@@ -1,5 +1,5 @@
 
-![Kodluyoruz Resmi](~/Desktop/kodluyoruz.png)
+![kodluyoruz.png](~/Desktop/kodluyoruz.png)
 
 
 ## Installation
